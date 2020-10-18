@@ -1,0 +1,8 @@
+Observation #1:
+Capomulin mice that weighed more tended to have more tumors.
+
+Observation #2:
+Capomulin and Ramicane seem to have the greatest effect on final tumor volumes.
+
+Observation #3:
+Ketapril had the largest variation across subjects.
