@@ -2,14 +2,6 @@
 
 ## Background
 
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
-
-![Laboratory](Images/Laboratory.jpg)
-
-While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
-
 This exercise involves working with data from a fictional animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 The goal is to generate tables and figures needed for a technical report of the study. I have also created a top-level summary of the study results.
 
